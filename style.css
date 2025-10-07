@@ -1,5 +1,5 @@
 body {
-  background-colour: #FFFFE0;
+  background-colour: #FF1493;
   font-family: "Times New Roman", Times, serif;
   color: #191970
 }
@@ -9,12 +9,12 @@ body {
   padding: 20px;
   background-color: pink;
   border-radius: 15px;
-  box-shadow: 0 4px 8px rgba (0, 0, 0, 0.6);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
    text-align: center; 
 }
 
 
 .kartu-profil img {
-  width: 150px;
+  width: 160px;
   border-radius: 50%;
 }
